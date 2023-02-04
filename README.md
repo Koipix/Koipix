@@ -1,4 +1,3 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.icegif.com/wp-content/uploads/2021/10/icegif-1537.gif))]
 <h1 align="center">I'm Koi</h1>
 <h3 align="center">An aspiring frontend developer</h3>
 
