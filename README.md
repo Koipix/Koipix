@@ -1,4 +1,3 @@
-![logo](https://github.com/KoiDevt/KoiDevt/blob/main/534111.png)
 <h1 align="center">I'm Koi</h1>
 <p align="center"><img align="center" alt="codwar" src="https://www.codewars.com/users/Koii/badges/large"></p>
 
