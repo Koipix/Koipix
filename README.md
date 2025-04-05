@@ -12,9 +12,8 @@
 
 <p align="center">
   <strong>Itch.io: <a href="https://koipix.itch.io/">koipix</a></strong> | 
-  <strong>X (Twt): <a href="https://x.com/Koipixu">koipixu</a></strong>
+  <strong>X (Twt): <a href="https://x.com/Koipixu">koipixu</a></strong> |
+  <strong>Codewars: <a href="https://www.codewars.com/users/Koii">Koii</a></strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/koipix"><img src="https://github-readme-stats.vercel.app/api?username=koipix&hide_border=true&show_icons=true" alt="koipix github stats"></a>
-</p>
+<p align="center"><img align="center" alt="codwar" src="https://www.codewars.com/users/Koii/badges/large"></p>
